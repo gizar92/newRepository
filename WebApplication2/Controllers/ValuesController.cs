@@ -15,7 +15,7 @@ namespace WebApplication2.Controllers
         {
             return new string[] { "value1", "value2" };
         }
-        public void test()
+        public void test() 
         { 
 
         }  
