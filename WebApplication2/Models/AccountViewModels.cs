@@ -9,7 +9,7 @@ namespace WebApplication2.Models
     {
         public string Name { get; set; }
 
-        public string Url { get; set; }
+        public string Url { get; set; } 
 
         public string State { get; set; }
     }
