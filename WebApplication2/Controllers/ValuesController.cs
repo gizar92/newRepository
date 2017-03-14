@@ -19,7 +19,7 @@ namespace WebApplication2.Controllers
         { 
 
         }  
-        public void edmond()
+        public void edmond2()
         {
 
         }
