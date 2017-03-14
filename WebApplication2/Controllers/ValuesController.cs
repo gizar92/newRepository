@@ -16,9 +16,9 @@ namespace WebApplication2.Controllers
             return new string[] { "value1", "value2" };
         }
         public void test()
-        {
+        { 
 
-        }
+        }  
 
         // GET api/values/5
         public string Get(int id)
