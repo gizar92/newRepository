@@ -13,7 +13,7 @@ namespace WebApplication2.Models
          
         public string State { get; set; }
     }
-
+    //testi i pare
     public class ManageInfoViewModel
     {
         public string LocalLoginProvider { get; set; }
