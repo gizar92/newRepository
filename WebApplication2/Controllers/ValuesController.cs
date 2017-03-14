@@ -19,6 +19,10 @@ namespace WebApplication2.Controllers
         { 
 
         }  
+        public void edmond()
+        {
+
+        }
 
         // GET api/values/5
         public string Get(int id)
